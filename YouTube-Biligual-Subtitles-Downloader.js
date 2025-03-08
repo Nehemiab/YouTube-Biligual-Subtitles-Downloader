@@ -611,7 +611,7 @@
             // 创建下载链接
             downloadSubtitle(srtContent, `${videoTitle}.srt`);
         } else {
-            alert('请先开启视频字幕，然后再尝试下载');
+            alert('请重启视频字幕，然后再尝试下载');
         }
     }
 
