@@ -8,7 +8,7 @@
 
 脚本发布在GreasyFork，浏览器安装tampermonkey插件后点击以下链接，一键安装。
 
-[Links to GreasyFork](https://greasyfork.org/en/scripts/529162-youtube-%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95%E4%B8%8B%E8%BD%BD-youtube-biligual-subtitles-downloader)
+[Links to GreasyFork](https://greasyfork.org/en/scripts/529164-youtube-%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95%E4%B8%8B%E8%BD%BD-youtube-biligual-subtitles-downloader)
 
 也可以复制或下载到本地，打开tampermonkey的dashboard中新建脚本或上传安装。
 
